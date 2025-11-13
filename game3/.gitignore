@@ -1,0 +1,37 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# Auto-generated VS/JetBrains files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Crash and report files
+*.pidb
+*.booproj
+
+# Gradle and Android
+.gradle/
+*.apk
+*.aab
+
+# Cache
+*.stackdump
